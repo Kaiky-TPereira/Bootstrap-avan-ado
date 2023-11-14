@@ -1,0 +1,25 @@
+
+        
+        #carousel {
+            margin-top: 20px;
+        }
+
+        
+        .card {
+            color: #0a651e;
+            transition: transform 0.3s;
+        }
+
+        .card:hover {
+            transform: scale(1.05);
+        }
+
+        #carousel img {
+            height: 500px;
+            object-fit: cover;
+        }
+
+h1{
+    color: #0a651e;;
+    background-color: rgb(235, 255, 255);
+}
